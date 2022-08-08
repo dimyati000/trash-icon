@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/digc9927/public_html/trash-icon
+- export DEPLOYPATH=/home/digc9927/public_html/git
 - /bin/cp -r * $DEPLOYPATH
