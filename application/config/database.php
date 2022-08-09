@@ -79,9 +79,11 @@ $db['default'] = array(
 	'username' => 'digc9927_1',
 	'password' => 'Databasedigital1',
 	'database' => 'digc9927_db_trashicon',
+	
 	// 'username' => 'auser',
 	// 'password' => 'root',
 	// 'database' => 'db_ecommerce',
+	
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
